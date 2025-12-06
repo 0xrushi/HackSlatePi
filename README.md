@@ -21,6 +21,11 @@ Right now this build uses the Waveshare 4.2" color e-ink module. I recently disc
 ## Keyboard
 Any of the HackerBerry Pi keyboards will drop into this chassis. They are still on sale and can be found through the HackerBerry Pi GitHub repos, so pick up whichever variant you prefer.
 
+## Power
+![Anker 733 power bank](images/powerbank.png)
+
+I plan to power the build with this [Anker Power Bank](https://www.amazon.com/Anker-Portable-Charger-Charging-Battery/dp/B0CZ9M6X8Q/). It avoids designing an internal 18650 charging circuit and stays compact. This pack should be fine for Raspberry Pi 3 or 4 builds; Pi 5 needs more headroom, so treat this as a Pi 3/4 power solution.
+
 ## Demos
 - [HackSlate full Raspberry Pi 3d print animation](https://youtu.be/X0gvL5FtIqs)
 - [HackSlate Radxa Zero / Pi Zero 3d print animation](https://youtu.be/aj6KT-1gvdg)
